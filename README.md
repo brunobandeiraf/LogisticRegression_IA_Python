@@ -1,1 +1,1 @@
-# LogisticRegression_IA_Python
+# Logistic Regression - Classification
